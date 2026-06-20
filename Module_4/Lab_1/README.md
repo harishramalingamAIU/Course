@@ -1,4 +1,4 @@
-# Lab 07 - Managed Service for Apache Spark: Qwik Start (Command Line)
+# Lab 01 - Managed Service for Apache Spark: Qwik Start (Command Line)
 
 ## Lab Summary
 
